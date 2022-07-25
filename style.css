@@ -1,0 +1,26 @@
+.body_backgorund {
+	background-image:url("https://i.ytimg.com/vi/Dg0IjOzopYU/maxresdefault.jpg");
+	background-position:center;
+	background-size:cover;
+}
+
+#myCanvas {
+	border-width:10px;
+	background-color: #87CEEB;
+	border-style:ridge;
+
+}
+
+h2 {
+	border-radius:10px;
+	width:200px;
+	padding:5px;
+}
+
+h3 {
+	display:inline-block;
+}
+
+span {
+	color:rgb(13, 194, 13);
+}
